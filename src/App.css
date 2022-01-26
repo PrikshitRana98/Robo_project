@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+}
+
+.card-background{
+  background-color: aqua;
+  width: 23%;  
+  border-radius: 20px;
+  text-align: center;
+  margin: 10px;
+  display: inline-block;
+  box-shadow: 2px; 
+  
+}
+.belowimage{
+  background-color: bisque;
+  border-bottom-left-radius: 19px;
+  border-bottom-right-radius: 19px;
+}
+
+/* .searchbox{
+  
+  
+} */
